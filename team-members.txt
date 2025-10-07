@@ -5,3 +5,9 @@ Entry
 Python
 Malabon
 Time is gold!
+
+John Algarne
+Junior developer
+Java
+QC
+I love to play video games too
