@@ -1,5 +1,11 @@
 TEAM MEMBERS
 
+Mark Zapanta
+Entry
+Python
+Malabon
+Time is gold!
+
 John Algarne
 Junior developer
 Java
